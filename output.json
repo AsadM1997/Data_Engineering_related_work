@@ -1,0 +1,122 @@
+[
+  {
+    "Name":"Hannah",
+    "Age":35,
+    "City":"Houston",
+    "Salary":95685
+  },
+  {
+    "Name":"Grace",
+    "Age":52,
+    "City":"Chicago",
+    "Salary":52039
+  },
+  {
+    "Name":"Jack",
+    "Age":43,
+    "City":"San Jose",
+    "Salary":112685
+  },
+  {
+    "Name":"David",
+    "Age":28,
+    "City":"Houston",
+    "Salary":51378
+  },
+  {
+    "Name":"Paul",
+    "Age":30,
+    "City":"New York",
+    "Salary":62854
+  },
+  {
+    "Name":"David",
+    "Age":55,
+    "City":"San Jose",
+    "Salary":101996
+  },
+  {
+    "Name":"Tina",
+    "Age":23,
+    "City":"San Diego",
+    "Salary":97585
+  },
+  {
+    "Name":"Frank",
+    "Age":59,
+    "City":"Chicago",
+    "Salary":49785
+  },
+  {
+    "Name":"Bob",
+    "Age":33,
+    "City":"Houston",
+    "Salary":97573
+  },
+  {
+    "Name":"Liam",
+    "Age":23,
+    "City":"Chicago",
+    "Salary":43680
+  },
+  {
+    "Name":"Rachel",
+    "Age":28,
+    "City":"Los Angeles",
+    "Salary":108084
+  },
+  {
+    "Name":"Bob",
+    "Age":22,
+    "City":"New York",
+    "Salary":51571
+  },
+  {
+    "Name":"Alice",
+    "Age":29,
+    "City":"Houston",
+    "Salary":119203
+  },
+  {
+    "Name":"Grace",
+    "Age":24,
+    "City":"Philadelphia",
+    "Salary":82625
+  },
+  {
+    "Name":"Olivia",
+    "Age":60,
+    "City":"Houston",
+    "Salary":95135
+  },
+  {
+    "Name":"Liam",
+    "Age":43,
+    "City":"Chicago",
+    "Salary":56255
+  },
+  {
+    "Name":"Olivia",
+    "Age":57,
+    "City":"San Antonio",
+    "Salary":66034
+  },
+  {
+    "Name":"Charlie",
+    "Age":34,
+    "City":"San Jose",
+    "Salary":97803
+  },
+  {
+    "Name":"Charlie",
+    "Age":50,
+    "City":"Dallas",
+    "Salary":49788
+  },
+  {
+    "Name":"Ian",
+    "Age":28,
+    "City":"New York",
+    "Salary":49168
+  }
+]

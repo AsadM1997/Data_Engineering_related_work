@@ -1,0 +1,6 @@
+empl_id|name|salary
+101|Mohd|2000
+102|Asad|40000
+103|Ibraheem|70000
+104|Abumamah|1000
+105|saad|100000

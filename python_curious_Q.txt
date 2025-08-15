@@ -1,0 +1,16 @@
+
+fetchone() and fetchall()
+
+
+
+
+
+
+
+
+
+
+
+session.add_all([p1,p2])
+
+std deviation
